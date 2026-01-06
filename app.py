@@ -125,7 +125,7 @@ class Pipeline:
         return self.base
 
 # ---------------- Streamlit App ----------------
-st.set_page_config(page_title="Daily Agent KPI Generator", page_icon="📊", layout="wide")
+st.set_page_config(page_title="KPI Generator", page_icon="📊", layout="wide")
 
 # ---------------- Enhanced CSS ----------------
 st.markdown("""
